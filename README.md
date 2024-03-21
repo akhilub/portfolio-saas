@@ -197,14 +197,14 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 - Link you repository to project in vercel
 - Update the environment variable on Vercel
 
-Steps:
-1.Login into your Vercel account and select your project.
-2.Inside your project, navigate to Settings > General > Environment Variables.
-3.Click on "New" button.
-4.In the "Name" field, enter NODE_OPTIONS.
-5.In the "Value" field, enter --openssl-legacy-provider.
-6.Choose either of the three options under "Environment" based on your requirement: Preview, Development or Production.
-7.Finally, click on the "Add" button to save the new environment variable.
+  Steps:
+  1.Login into your Vercel account and select your project.
+  2.Inside your project, navigate to Settings > General > Environment Variables.
+  3.Click on "New" button.
+  4.In the "Name" field, enter NODE_OPTIONS.
+  5.In the "Value" field, enter --openssl-legacy-provider.
+  6.Choose either of the three options under "Environment" based on your requirement: Preview, Development or Production.
+  7.Finally, click on the "Add" button to save the new environment variable.
 
 # Technologies used 🛠️
 
