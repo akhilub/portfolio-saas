@@ -2,18 +2,18 @@
 
 // Website related settings
 const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
+  isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
   title: "Akhil's Portfolio",
   description:
-    "An enthusiactic result-driven individual who thrives to work on end to end products that develop sustainable and scalable social and technical systems to create impact.",
+    "An enthusiactic result-driven individual who thrives to work on end to end products to develop sustainable, scalable and social technical systems that creates impact.",
   og: {
     title: "Akhil Singh Chauhan",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://akhilsin-portfolio.vercel.app/#/",
   },
 };
 
@@ -23,18 +23,19 @@ const greeting = {
   logo_name: "AkhilSinghChauhan",
   nickname: "Web Wizard",
   subTitle:
-    "An enthusiactic result-driven individual who thrives to work on end to end products that develop sustainable and scalable social and technical systems to create impact.",
+    "An enthusiactic result-driven individual who thrives to work on end to end products to develop sustainable, scalable and social technical systems that creates impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/1dRT2HP6dLqiUQ-G3yvNU2ip3bverWS9w/view",
+  portfolio_repository: "https://github.com/akhilub/portfolio",
+  calendlyLink: "https://calendly.com/chauhansinghakhil92",
+  githubProfile: "https://github.com/akhilub",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/akhilub",
   // linkedin: "https://www.linkedin.com/in/akhilsinghchauhan/",
-  // gmail: "akhilsin@buffalo.edu",
+  // gmail: "chauhansinghakhil92@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
   // twitter: "https://twitter.com/ashutosh_1919",
@@ -60,7 +61,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:akhilsin@buffalo.edu",
+    link: "mailto:chauhansinghakhil92@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -187,7 +188,7 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Develop highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Experience of working on Computer Vision and NLP projects",
         "⚡ Handle Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
@@ -232,9 +233,9 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Host and maintain websites on virtual machine instances along with integration of databases",
+        "⚡ Deploy deep learning models on cloud to be used on mobile devices",
+        "⚡ Set up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
@@ -299,9 +300,9 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Design highly attractive user interface for mobile and web applications",
+        "⚡ Customize logo designs and building logos from scratch",
+        "⚡ Create responsive flow of application functionalities for optimal user experience",
       ],
       softwareSkills: [
         {
@@ -346,59 +347,59 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/akhilsin/",
     },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    // {
+    //   siteName: "HackerRank",
+    //   iconifyClassname: "simple-icons:hackerrank",
+    //   style: {
+    //     color: "#2EC866",
+    //   },
+    //   profileLink: "https://www.hackerrank.com/layman_brother",
+    // },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    // },
+    // {
+    //   siteName: "Codeforces",
+    //   iconifyClassname: "simple-icons:codeforces",
+    //   style: {
+    //     color: "#1F8ACB",
+    //   },
+    //   profileLink: "http://codeforces.com/profile/layman_brother",
+    // },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    // },
+    // {
+    //   siteName: "Kaggle",
+    //   iconifyClassname: "simple-icons:kaggle",
+    //   style: {
+    //     color: "#20BEFF",
+    //   },
+    //   profileLink: "https://www.kaggle.com/laymanbrother",
+    // },
   ],
 };
 
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Indian Institute of Technology Ropar",
+      subtitle: "M.Tech. in Artificial Intelligence",
+      logo_path: "iitr_logo.png",
+      alt_name: "IIT Ropar",
+      duration: "2019 - 2019",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
@@ -407,11 +408,11 @@ const degrees = {
       website_link: "http://iiitk.ac.in",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "University at Buffalo",
+      subtitle: "M.S. in Computer Science & Operations Research",
+      logo_path: "ub_logo.png",
+      alt_name: "SUNY Buffalo",
+      duration: "2020 - 2021",
       descriptions: [
         "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
         "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
