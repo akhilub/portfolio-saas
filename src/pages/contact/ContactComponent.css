@@ -114,6 +114,12 @@
   justify-content: center;
 }
 
+.book-a-call-btn-div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 .blogsite-btn-div {
   width: 100%;
   display: flex;
@@ -125,6 +131,10 @@
   display: flex;
   justify-content: center;
   margin-top: 0;
+}
+
+.embed-google-map-div {
+  margin-top: 40px;
 }
 
 @media (max-width: 1380px) {

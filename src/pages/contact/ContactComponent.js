@@ -46,9 +46,17 @@ class Contact extends Component {
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
                   <Button
-                    text="See My Resume"
+                    text="🗒️ See My Resume"
                     newTab={true}
                     href={greeting.resumeLink}
+                    theme={theme}
+                  />
+                </div>
+                <div className="book-a-call-btn-div">
+                  <Button
+                    text="📞 Book a call"
+                    newTab={true}
+                    href={greeting.calendlyLink}
                     theme={theme}
                   />
                 </div>
@@ -126,6 +134,18 @@ class Contact extends Component {
                     href={addressSection.location_map_link}
                     theme={theme}
                   />
+                </div>
+                <div className="embed-google-map-div">
+                  <iframe
+                    title="Google Maps Location"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24857.087789154994!2d-77.30183795!3d38.8522444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64e96394b91cd%3A0x72326e785448640!2sFairfax%2C%20VA!5e0!3m2!1sen!2sus!4v1711512231770!5m2!1sen!2sus"
+                    width="600"
+                    height="450"
+                    style={{ border: 0 }}
+                    allowFullScreen=""
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                  ></iframe>
                 </div>
               </div>
             </div>
