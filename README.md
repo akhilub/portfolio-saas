@@ -25,7 +25,7 @@
 
 <p align="center"> 
     <a href="https://akhilsin-portfolio.vercel.app/#/" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
+    <img src="images/masterPortfolioFullPage.png"></img>
   </a>
 </p>
 
