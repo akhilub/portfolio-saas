@@ -52,10 +52,10 @@ function SeoHeader() {
     },
     address: {
       "@type": "PostalAddress",
-      addressLocality: contactPageData.addressSection?.locality,
-      addressRegion: contactPageData.addressSection?.region,
+      addressLocality: contactPageData.addressSection?.county,
+      addressRegion: contactPageData.addressSection?.state,
       addressCountry: contactPageData.addressSection?.country,
-      postalCode: contactPageData.addressSection?.postalCode,
+      postalCode: contactPageData.addressSection?.zipCode,
       streetAddress: contactPageData.addressSection?.streetAddress,
     },
     hasCredential: credentials,

@@ -49,7 +49,7 @@ export default function Greeting(props) {
               </div>
               <div className="portfolio-repo-btn-div">
                 <Button
-                  text="📞 Let's talk"
+                  text="📞 Let's chat"
                   newTab={true}
                   href={greeting.calendlyLink}
                   theme={theme}
