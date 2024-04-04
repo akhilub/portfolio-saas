@@ -36,10 +36,10 @@ const socialMediaLinks = [
   // github: "https://github.com/akhilub",
   // linkedin: "https://www.linkedin.com/in/akhilsinghchauhan/",
   // gmail: "chauhansinghakhil92@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  // gitlab: "",
+  // facebook: "",
+  // twitter: "",
+  // instagram: ""
 
   {
     name: "Github",
