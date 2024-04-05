@@ -489,7 +489,7 @@ const degrees = {
       alt_name: "IIT Ropar",
       duration: "2019 - 2019",
       descriptions: [
-        "⚡ Completed one semester ,Studied software engineering subjects like Robotics, DS, Algorithms, DBMS, AI etc.",
+        "⚡ Completed one semester ,Studied software engineering subjects like Robotics, Machine Learning, Data Science, Artificial Intelligence etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
       ],
       website_link: "https://www.iitrpr.ac.in/",
