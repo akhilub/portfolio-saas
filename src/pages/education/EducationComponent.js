@@ -34,6 +34,23 @@ class Education extends Component {
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
                   Qualification and Certifcations
                 </h3>
+
+                <h4
+                  className="heading-description"
+                  style={{ color: theme.secondaryText }}
+                >
+                  Reflecting on my journey, I recognize the privilege I've had
+                  in receiving a high-quality education. It's been a culmination
+                  of hard work and dedication that has allowed me to achieve
+                  milestones such as cracking various national and international
+                  exams like GRE, TOEFL, GATE, and IIT-JEE. I take pride in my
+                  resilience. My strength lies in my skills, consistency in
+                  efforts, and innovative approach towards overcoming obstacles.
+                  These qualities have not only propelled me forward but have
+                  also shaped my identity as someone who is relentless in
+                  pursuit of success.
+                </h4>
+
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
             </div>

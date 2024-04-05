@@ -45,6 +45,13 @@
   text-align: center;
 }
 
+.heading-description {
+  font-size: 20px;
+  font-family: "Google Sans Regular";
+  text-align: center;
+  line-height: 1.6;
+}
+
 @media (max-width: 1380px) {
   .heading-text {
     font-size: 50px;
