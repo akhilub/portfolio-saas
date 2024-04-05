@@ -478,7 +478,6 @@ const degrees = {
       descriptions: [
         "⚡ Relevant CourseWork: Algorithm Design & Analysis, Introduction to Machine Learning, Data Model & Query Language, Data Intensive Computing, Dicrete Optimization, Dynamic Data Vizulization & Optimization",
         "⚡ Research assistant at Optimator Lab. As part of it, I have worked on StarShip Project.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
       ],
       website_link: "https://www.buffalo.edu/",
     },
@@ -489,7 +488,7 @@ const degrees = {
       alt_name: "IIT Ropar",
       duration: "2019 - 2019",
       descriptions: [
-        "⚡ Completed one semester ,Studied software engineering subjects like Robotics, Machine Learning, Data Science, Artificial Intelligence etc.",
+        "⚡ Completed one semester ,Studied software engineering subjects like Robotics, Machine Learning, Artificial Intelligence.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
       ],
       website_link: "https://www.iitrpr.ac.in/",
@@ -503,6 +502,7 @@ const degrees = {
       descriptions: [
         "⚡ Active participant in college activities",
         "⚡ Built an ATV and represented college at National level",
+        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
       ],
       website_link: "https://vnit.ac.in/",
     },
