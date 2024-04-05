@@ -354,33 +354,42 @@ const experience = {
           title: "Full Stack Developer",
           company: "Mezeh Mediterranean Grill",
           company_url: "/",
-          logo_path: "legato_logo.png",
+          logo_path: "mezeh_logo.png",
           duration: "Feb 2022 - Present",
           location: "FairFax, Virginia",
-          description:
-            "I have designed, developed, and deployed more than 12 cloud-based full-stack applications tailored to meet specific business requirements.I've also worked on maintaining user interfaces for web and mobile apps using JavaScript frameworks like Vue.js, React.js, and Flutter. Collaborating with diverse teams including UX designers and marketing directors, I've contributed to building complete software architectures for mobile and web applications. Additionally, I've created various RestAPIs to connect internal and external systems and translated business requirements into technical specifications for database logic and schemas.",
+          description: [
+            "Designed, developed, and deployed over 12 cloud-based full-stack applications as per business needs",
+            "Maintained user interfaces for web and mobile applications using JavaScript frameworks (Vue.js, React.js, Flutter)",
+            "Collaborated in cross-functional and agile team comprising of UX designers, marketing directors for creating complete software architecture of mobile and web application",
+            "Created various RestAPI's in backend to integrate internal and external systems",
+            "Translated business requirements into technical specifications by formulating schema logic in SQL and NoSQL(such as MongoDB) databases.",
+          ],
           color: "#0879bf",
         },
         {
           title: "Software Engineer",
           company: "Yahoo",
           company_url: "/",
-          logo_path: "muffito_logo.png",
+          logo_path: "yahoo_logo.png",
           duration: "Jan 2016 - Dec 2017",
           location: "Bangalore, India",
-          description:
-            "I implemented best coding practices and testing methodologies across various backend services to enhance the developer portal's functionality and efficiency. I was a core team member in designing and developing internal developer portal extensions.",
+          description: [
+            "Core team member for designing and developing internal developer portal extensions",
+            "Employ best coding practices and testing methodologies across different backend services for dev portal",
+          ],
           color: "#9b1578",
         },
         {
           title: "Software Engineer",
           company: "Emami Ltd",
           company_url: "/",
-          logo_path: "freecopy_logo.png",
+          logo_path: "emami_logo.jpeg",
           duration: "June 2015 - Dec 2015",
           location: "Kolkata, India",
-          description:
-            "I developed services within a platform to ingest data from 12 datastreams for sales and revenue forecasting. Additionally, I gathered requirements from the order management system, revenue reporting team, and production teams to seamlessly integrate their data with the platform",
+          description: [
+            "Developed services in a platform to ingest data from 12 datastreams to forecast sales and revenue",
+            "Requirement gathering from order management system, revenue reporting and production teams to integrate with the platform",
+          ],
           color: "#fc1f20",
         },
       ],
@@ -605,7 +614,7 @@ const certifications = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My aim is to create projects that solve problems and deploy them to web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
