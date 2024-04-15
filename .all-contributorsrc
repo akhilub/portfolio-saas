@@ -6,6 +6,19 @@
   "commit": false,
   "contributors": [
     {
+      "login": "akhilub",
+      "name": "Akhil Singh Chauhan",
+      "avatar_url": " https://avatars.githubusercontent.com/u/60491139?s…00&u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
+      "profile": "http://akhilub.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
       "login": "ashutosh1919",
       "name": "Ashutosh Hathidara",
       "avatar_url": "https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
