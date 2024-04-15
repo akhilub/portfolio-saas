@@ -341,7 +341,7 @@ const skills = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work and Volunteership",
   description:
     "I have cultivated my expertise as a Full Stack Developer through dynamic engagements with startups and established enterprises alike. My journey spans roles as a Developer, Designer, and Software Architect, where I've contributed to the evolution of innovative products and scalable systems. My multifaceted experiences have equipped me with a holistic understanding of software development, enabling me to drive impactful solutions across the entire stack.",
   header_image_path: "experience.svg",
