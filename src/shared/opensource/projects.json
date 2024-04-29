@@ -89,6 +89,28 @@
           "iconifyClass": "logos-jupyter"
         }
       ]
+    },
+    {
+      "id": "R_kgDOLnMKvg",
+      "name": "catering-calender",
+      "createdAt": "2024-03-29T13:42:46Z",
+      "url": "https://github.com/akhilub/catering-calender",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
     }
   ]
 }
