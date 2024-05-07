@@ -2,23 +2,23 @@
   "closed": 0,
   "data": [
     {
-      "id": "PR_kwDOLkGxN85r89H8",
-      "title": "LC_1832_Pangram",
-      "url": "https://github.com/akhilub/DSA-Coding-Patterns/pull/1",
+      "id": "PR_kwDOJ3IZJc5ulgt5",
+      "title": "Fixed experience page screen bug",
+      "url": "https://github.com/akhilub/portfolio/pull/1",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
         "url": "https://github.com/akhilub",
         "login": "akhilub"
       },
-      "createdAt": "2024-04-08T02:20:13Z",
+      "createdAt": "2024-05-06T02:48:33Z",
       "number": 1,
-      "changedFiles": 3,
-      "additions": 136,
-      "deletions": 0,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 6,
       "baseRepository": {
-        "name": "DSA-Coding-Patterns",
-        "url": "https://github.com/akhilub/DSA-Coding-Patterns",
+        "name": "portfolio",
+        "url": "https://github.com/akhilub/portfolio",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
           "login": "akhilub",
