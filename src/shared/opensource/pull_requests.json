@@ -37,17 +37,11 @@
         "login": "akhilub"
       },
       "createdAt": "2024-05-06T02:48:33Z",
-      "createdAt": "2024-05-06T02:48:33Z",
       "number": 1,
       "changedFiles": 1,
       "additions": 0,
       "deletions": 6,
-      "changedFiles": 1,
-      "additions": 0,
-      "deletions": 6,
       "baseRepository": {
-        "name": "portfolio",
-        "url": "https://github.com/akhilub/portfolio",
         "name": "portfolio",
         "url": "https://github.com/akhilub/portfolio",
         "owner": {
