@@ -1,6 +1,26 @@
 {
-  "closed": 1,
+  "closed": 2,
   "data": [
+    {
+      "id": "I_kwDOE1hFms6NoSmM",
+      "closed": true,
+      "title": "Day 284 Divide and Conquer Algorithm to Find Longest Substring with Character Count of at Least K",
+      "createdAt": "2024-06-26T19:51:09Z",
+      "url": "https://github.com/DoctorLai/Teaching-Kids-Programming/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Teaching-Kids-Programming",
+        "url": "https://github.com/DoctorLai/Teaching-Kids-Programming",
+        "owner": {
+          "login": "DoctorLai",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1764434?u=13d220f5dabd564b4ce2bfb785f5a044f0fa7c16&v=4",
+          "url": "https://github.com/DoctorLai"
+        }
+      }
+    },
     {
       "id": "I_kwDOE1hFms6FaYYN",
       "closed": true,
@@ -36,7 +56,7 @@
         "url": "https://github.com/favrora/Avatar-Maker",
         "owner": {
           "login": "favrora",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/56507678?u=c04dbddf6738882a4eec278361601019d9da68e8&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56507678?u=d70c944dee821bdf505621a21f978d20ab804468&v=4",
           "url": "https://github.com/favrora"
         }
       }
@@ -56,7 +76,7 @@
         "url": "https://github.com/akhilub/search-enroute",
         "owner": {
           "login": "akhilub",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
           "url": "https://github.com/akhilub"
         }
       }
@@ -103,5 +123,5 @@
     }
   ],
   "open": 4,
-  "totalCount": 5
+  "totalCount": 6
 }

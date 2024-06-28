@@ -2,25 +2,56 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDOJ3IZJc5uyZIe",
+      "title": "Pulling latest code from Github",
+      "url": "https://github.com/akhilub/portfolio/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
+        "url": "https://github.com/akhilub",
+        "login": "akhilub"
+      },
+      "createdAt": "2024-05-07T16:54:58Z",
+      "number": 2,
+      "changedFiles": 2,
+      "additions": 65,
+      "deletions": 45,
+      "baseRepository": {
+        "name": "portfolio",
+        "url": "https://github.com/akhilub/portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
+          "login": "akhilub",
+          "url": "https://github.com/akhilub"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOJ3IZJc5ulgt5",
       "title": "Fixed experience page screen bug",
       "url": "https://github.com/akhilub/portfolio/pull/1",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
         "url": "https://github.com/akhilub",
         "login": "akhilub"
       },
       "createdAt": "2024-05-06T02:48:33Z",
+      "createdAt": "2024-05-06T02:48:33Z",
       "number": 1,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 6,
       "changedFiles": 1,
       "additions": 0,
       "deletions": 6,
       "baseRepository": {
         "name": "portfolio",
         "url": "https://github.com/akhilub/portfolio",
+        "name": "portfolio",
+        "url": "https://github.com/akhilub/portfolio",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
           "login": "akhilub",
           "url": "https://github.com/akhilub"
         }
@@ -41,7 +72,7 @@
         "name": "Avatar-Maker",
         "url": "https://github.com/favrora/Avatar-Maker",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/56507678?u=c04dbddf6738882a4eec278361601019d9da68e8&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56507678?u=d70c944dee821bdf505621a21f978d20ab804468&v=4",
           "login": "favrora",
           "url": "https://github.com/favrora"
         }
@@ -53,7 +84,7 @@
       "url": "https://github.com/akhilub/search-enroute/pull/3",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
         "url": "https://github.com/akhilub",
         "login": "akhilub"
       },
@@ -66,7 +97,7 @@
         "name": "search-enroute",
         "url": "https://github.com/akhilub/search-enroute",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
           "login": "akhilub",
           "url": "https://github.com/akhilub"
         }
@@ -78,7 +109,7 @@
       "url": "https://github.com/akhilub/search-enroute/pull/2",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
         "url": "https://github.com/akhilub",
         "login": "akhilub"
       },
@@ -91,14 +122,14 @@
         "name": "search-enroute",
         "url": "https://github.com/akhilub/search-enroute",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=057771aa52beea26dcc8a23e4ef1a9a4b6cf2880&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?v=4",
           "login": "akhilub",
           "url": "https://github.com/akhilub"
         }
       }
     }
   ],
-  "merged": 3,
+  "merged": 4,
   "open": 1,
-  "totalCount": 4
+  "totalCount": 5
 }
