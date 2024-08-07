@@ -66,14 +66,14 @@
       "closed": false,
       "title": "Future Work",
       "createdAt": "2024-03-20T17:06:29Z",
-      "url": "https://github.com/akhilub/search-enroute/issues/1",
+      "url": "https://github.com/akhilub/PathFinderPlus/issues/1",
       "number": 1,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "search-enroute",
-        "url": "https://github.com/akhilub/search-enroute",
+        "name": "PathFinderPlus",
+        "url": "https://github.com/akhilub/PathFinderPlus",
         "owner": {
           "login": "akhilub",
           "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=144c4802a1842337c5018452ed9bdfce84523d25&v=4",
