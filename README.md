@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/akhilub/portfolio/pulls) or [issue](https://github.com/ashutosh1919/masterPortfolio/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/akhilub/portfolio-saas/pulls) or [issue](https://github.com/akhilub/portfolio-saas/issues).
 
 - Move to Gatsby
 - Add Podcast Section and Video Section

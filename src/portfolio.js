@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Akhil's Portfolio",
   description:
-    "An enthusiactic result-driven individual who thrives to work on end to end products to develop sustainable, scalable and social technical systems that creates impact.",
+    "An enthusiastic result-driven individual who thrives to work on end to end products to develop sustainable, scalable and social technical systems that creates impact.",
   og: {
     title: "Akhil Singh Chauhan",
     type: "website",
@@ -23,12 +23,13 @@ const greeting = {
   logo_name: "AkhilSinghChauhan",
   nickname: "Web Wizard",
   subTitle:
-    "An enthusiactic result-driven individual who thrives to work on end to end products to develop sustainable, scalable and social technical systems that creates impact.",
+    "An enthusiastic result-driven individual who thrives to work on end to end products to develop sustainable, scalable and social technical systems that creates impact.",
   resumeLink:
     "https://drive.google.com/file/d/1dRT2HP6dLqiUQ-G3yvNU2ip3bverWS9w/view",
   portfolio_repository: "https://github.com/akhilub/portfolio",
   calendlyLink: "https://calendly.com/chauhansinghakhil92",
   githubProfile: "https://github.com/akhilub",
+
 };
 
 const socialMediaLinks = [
@@ -53,12 +54,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  // {
-  //   name: "YouTube",
-  //   link: "https://youtube.com/c/DevSense19",
-  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-  //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  // },
+  {
+    name: "YouTube",
+    link: "https://www.youtube.com/@BasicToAdvance_101",
+    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  },
   {
     name: "Gmail",
     link: "mailto:chauhansinghakhil92@gmail.com",
