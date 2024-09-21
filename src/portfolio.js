@@ -29,7 +29,6 @@ const greeting = {
   portfolio_repository: "https://github.com/akhilub/portfolio",
   calendlyLink: "https://calendly.com/chauhansinghakhil92",
   githubProfile: "https://github.com/akhilub",
-
 };
 
 const socialMediaLinks = [
@@ -56,7 +55,7 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/@BasicToAdvance_101",
+    link: "https://www.youtube.com/channel/UC0JHZqh2QwratqwrYtNEEZQ",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
