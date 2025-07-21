@@ -1,9 +1,9 @@
-name: Pull Request Creation
+name: Pull Request Data Fetcher
 
 on:
   push:
     branches:
-      - all
+      - main  # Changed from 'all' to 'main'
 
 jobs:
   pullRequestRelease:
@@ -13,39 +13,42 @@ jobs:
         id: get_pull_requests
         with:
           query: |
-            query user(login: "ashutosh1919") {
-              pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
-                totalCount
-                nodes {
-                  title
-                  url
-                  state
-                  mergedBy {
-                    avatarUrl
+            query($login: String!) {
+              user(login: $login) {
+                pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
+                  totalCount
+                  nodes {
+                    title
                     url
-                    login
-                  }
-                  createdAt
-                  number
-                  changedFiles
-                  additions
-                  deletions
-                  baseRepository {
-                    name
-                    url
-                    owner {
+                    state
+                    mergedBy {
                       avatarUrl
-                      login
                       url
+                      login
+                    }
+                    createdAt
+                    number
+                    changedFiles
+                    additions
+                    deletions
+                    baseRepository {
+                      name
+                      url
+                      owner {
+                        avatarUrl
+                        login
+                        url
+                      }
                     }
                   }
-                }
-                pageInfo {
-                  hasNextPage
-                  endCursor
+                  pageInfo {
+                    hasNextPage
+                    endCursor
+                  }
                 }
               }
             }
+          login: "akhilub"  # My GitHub username
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: "echo 'Pull Requests Data: ${{ steps.get_latest_release.outputs.data }}'"
+      - run: "echo 'Pull Requests Data: ${{ steps.get_pull_requests.outputs.data }}'"
