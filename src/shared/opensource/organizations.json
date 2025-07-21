@@ -1,3 +1,9 @@
 {
-  "data": []
+  "data": [
+    {
+      "login": "excalidraw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
+      "__typename": "Organization"
+    }
+  ]
 }

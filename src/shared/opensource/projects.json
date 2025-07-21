@@ -1,22 +1,13 @@
 {
   "data": [
     {
-      "id": "R_kgDOLjIeeQ",
-      "name": "PathFinderPlus",
-      "createdAt": "2024-03-20T16:39:36Z",
-      "url": "https://github.com/akhilub/PathFinderPlus",
-      "description": "A web app for discovering points of interest along your route.  Plan journeys, find nearby amenities, and optimize trips with multiple stops.  Make every journey more exciting and efficient!",
+      "id": "R_kgDOOT8I7g",
+      "name": "DSA-Bible",
+      "createdAt": "2025-04-04T12:28:43Z",
+      "url": "https://github.com/akhilub/DSA-Bible",
+      "description": "Comprehensive guide for scholars to practice DSA, Optimization, problems to enhance their programming skills for coding interviews in a structured way.",
       "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
+      "languages": []
     },
     {
       "id": "R_kgDOL2cypg",
@@ -45,6 +36,42 @@
         {
           "name": "Dockerfile",
           "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONl4lXA",
+      "name": "music-analytics-dashboard",
+      "createdAt": "2025-01-04T18:00:02Z",
+      "url": "https://github.com/akhilub/music-analytics-dashboard",
+      "description": "A modern analytics dashboard for the Streamify music streaming service, built with Next.js 15 and React 19.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLjIeeQ",
+      "name": "PathFinderPlus",
+      "createdAt": "2024-03-20T16:39:36Z",
+      "url": "https://github.com/akhilub/PathFinderPlus",
+      "description": "A web app for discovering points of interest along your route.  Plan journeys, find nearby amenities, and optimize trips with multiple stops.  Make every journey more exciting and efficient!",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
@@ -85,46 +112,6 @@
         {
           "name": "Java",
           "iconifyClass": "logos-java"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOLvNUiw",
-      "name": "Features-Request-System",
-      "createdAt": "2024-04-17T02:29:15Z",
-      "url": "https://github.com/akhilub/Features-Request-System",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMzQxMjExMDI=",
-      "name": "COVID-DATA-SENTIMENT-ANALYSIS",
-      "createdAt": "2021-01-29T11:10:59Z",
-      "url": "https://github.com/akhilub/COVID-DATA-SENTIMENT-ANALYSIS",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        },
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
         }
       ]
     }

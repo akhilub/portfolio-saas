@@ -24,8 +24,7 @@ const greeting = {
   nickname: "Web Wizard",
   subTitle:
     "An enthusiastic result-driven individual who thrives to work on end to end products to develop sustainable, scalable and social technical systems that creates impact.",
-  resumeLink:
-    "https://drive.google.com/file/d/1dRT2HP6dLqiUQ-G3yvNU2ip3bverWS9w/view",
+  resumeLink: "https://tinyurl.com/akhilsinghCV",
   portfolio_repository: "https://github.com/akhilub/portfolio",
   calendlyLink: "https://calendly.com/chauhansinghakhil92",
   githubProfile: "https://github.com/akhilub",
@@ -351,9 +350,34 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Creator",
+          company: "DSA-Bible",
+          company_url: "https://dsabible.com",
+          logo_path: "dsa_bible.svg",
+          duration: "Apr 2025 - Present",
+          location: "Remote",
+          description: [
+            "Building “DSA Bible” — a structured learning platform for mastering DSA and optimizations focused on pattern recognition to prepare users for technical interviews and software engineering roles.",
+            "Designed to help learners follow a structured approach, apply coding principles, and become industry-ready for software engineering roles.",
+          ],
+          color: "#9b1578",
+        },
+        {
+          title: "Open Source Contributor",
+          company: "Obsidian Excalidraw",
+          company_url: "https://excalidraw-obsidian.online/Welcome",
+          logo_path: "excalidraw_obsidian_logo.svg",
+          duration: "Aug 2024 - Present",
+          location: "Remote",
+          description: [
+            "Contributing to the development of Obsidian-Excalidraw in TypeScript & React 18, an open-source plugin integrating Excalidraw sketching capabilities into Obsidian, enhancing note-taking and visual thinking for over 100,000 users.",
+          ],
+          color: "#9b1578",
+        },
+        {
           title: "Full Stack Developer",
           company: "Mezeh Mediterranean Grill",
-          company_url: "/",
+          company_url: "https://mezeh.com/",
           logo_path: "mezeh_logo.png",
           duration: "Feb 2022 - Present",
           location: "FairFax, Virginia",
@@ -374,8 +398,9 @@ const experience = {
           duration: "Jan 2016 - Dec 2017",
           location: "Bangalore, India",
           description: [
-            "Core team member for designing and developing internal developer portal extensions",
-            "Employ best coding practices and testing methodologies across different backend services for dev portal",
+            "Core team member for designing and developing Internal Developer Admin Dashboard, its components and features.",
+            "Employed Domain-Driven Design (DDD) and rigorous testing methodologies to develop and maintain scalable backend services.",
+            "Implemented Role-Based Access Control (RBAC) within backend systems and service layers.",
           ],
           color: "#9b1578",
         },

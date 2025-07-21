@@ -1,6 +1,106 @@
 {
-  "closed": 2,
+  "closed": 4,
   "data": [
+    {
+      "id": "I_kwDOMmhZhc66SrUD",
+      "closed": true,
+      "title": "panzoom plugin get applied during build",
+      "createdAt": "2025-06-06T17:45:05Z",
+      "url": "https://github.com/PLAYG0N/mkdocs-panzoom/issues/29",
+      "number": 29,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "mkdocs-panzoom",
+        "url": "https://github.com/PLAYG0N/mkdocs-panzoom",
+        "owner": {
+          "login": "PLAYG0N",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19652362?u=1860ba387d2fffc9079fa7f1674539e7a1888206&v=4",
+          "url": "https://github.com/PLAYG0N"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODcka_M6yBK_0",
+      "closed": false,
+      "title": "Feature Request : Shape Recognizer",
+      "createdAt": "2025-04-10T19:17:44Z",
+      "url": "https://github.com/excalidraw/excalidraw/issues/9369",
+      "number": 9369,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "excalidraw",
+        "url": "https://github.com/excalidraw/excalidraw",
+        "owner": {
+          "login": "excalidraw",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
+          "url": "https://github.com/excalidraw"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOFSJP0M6oqPst",
+      "closed": true,
+      "title": "Kindly pull and push all the latest features from excalidraw browser website github code repo to the excalidraw-vscode.",
+      "createdAt": "2025-02-04T09:50:41Z",
+      "url": "https://github.com/excalidraw/excalidraw-vscode/issues/152",
+      "number": 152,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "excalidraw-vscode",
+        "url": "https://github.com/excalidraw/excalidraw-vscode",
+        "owner": {
+          "login": "excalidraw",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
+          "url": "https://github.com/excalidraw"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOFASnVs6c4oAU",
+      "closed": false,
+      "title": "URL not working",
+      "createdAt": "2024-11-04T07:49:50Z",
+      "url": "https://github.com/saddamarbaa/netflix-clone-app-react-typescript/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "netflix-clone-app-react-typescript",
+        "url": "https://github.com/saddamarbaa/netflix-clone-app-react-typescript",
+        "owner": {
+          "login": "saddamarbaa",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51326421?u=4928f0145ea52f5b0bcf54a354fe1ad314ad1672&v=4",
+          "url": "https://github.com/saddamarbaa"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOE9VX9M6c4mJZ",
+      "closed": false,
+      "title": "Url not working",
+      "createdAt": "2024-11-04T07:46:17Z",
+      "url": "https://github.com/saddamarbaa/netflix-clone-api/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "netflix-clone-api",
+        "url": "https://github.com/saddamarbaa/netflix-clone-api",
+        "owner": {
+          "login": "saddamarbaa",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51326421?u=4928f0145ea52f5b0bcf54a354fe1ad314ad1672&v=4",
+          "url": "https://github.com/saddamarbaa"
+        }
+      }
+    },
     {
       "id": "I_kwDOE1hFms6NoSmM",
       "closed": true,
@@ -122,6 +222,6 @@
       }
     }
   ],
-  "open": 4,
-  "totalCount": 6
+  "open": 7,
+  "totalCount": 11
 }

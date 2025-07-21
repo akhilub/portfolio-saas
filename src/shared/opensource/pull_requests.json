@@ -2,6 +2,73 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDON3Of4c6M-LWn",
+      "title": "Toggle stroke color panal script",
+      "url": "https://github.com/akhilub/obsidian-excalidraw-plugin/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=144c4802a1842337c5018452ed9bdfce84523d25&v=4",
+        "url": "https://github.com/akhilub",
+        "login": "akhilub"
+      },
+      "createdAt": "2025-02-28T17:48:44Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 52,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "obsidian-excalidraw-plugin",
+        "url": "https://github.com/akhilub/obsidian-excalidraw-plugin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=144c4802a1842337c5018452ed9bdfce84523d25&v=4",
+          "login": "akhilub",
+          "url": "https://github.com/akhilub"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOFWU94c6Kq5HL",
+      "title": "Toggle Stroke Color Panel via Script",
+      "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin/pull/2255",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2025-02-10T16:03:21Z",
+      "number": 2255,
+      "changedFiles": 2,
+      "additions": 52,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "obsidian-excalidraw-plugin",
+        "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14358394?u=8b35a915119ac21a5753d57c3b79bc1981ff39a5&v=4",
+          "login": "zsviczian",
+          "url": "https://github.com/zsviczian"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDONl4lXM6HtbpR",
+      "title": "Added the dropdown theme menu feature",
+      "url": "https://github.com/akhilub/music-analytics-dashboard/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2025-01-14T14:09:13Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 48,
+      "deletions": 32,
+      "baseRepository": {
+        "name": "music-analytics-dashboard",
+        "url": "https://github.com/akhilub/music-analytics-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=144c4802a1842337c5018452ed9bdfce84523d25&v=4",
+          "login": "akhilub",
+          "url": "https://github.com/akhilub"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOJ3IZJc5uyZIe",
       "title": "Pulling latest code from Github",
       "url": "https://github.com/akhilub/portfolio-saas/pull/2",
@@ -44,6 +111,31 @@
       "baseRepository": {
         "name": "portfolio-saas",
         "url": "https://github.com/akhilub/portfolio-saas",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=144c4802a1842337c5018452ed9bdfce84523d25&v=4",
+          "login": "akhilub",
+          "url": "https://github.com/akhilub"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLkGxN85r89H8",
+      "title": "LC_1832_Pangram",
+      "url": "https://github.com/akhilub/DSA-Coding-Patterns/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=144c4802a1842337c5018452ed9bdfce84523d25&v=4",
+        "url": "https://github.com/akhilub",
+        "login": "akhilub"
+      },
+      "createdAt": "2024-04-08T02:20:13Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 136,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "DSA-Coding-Patterns",
+        "url": "https://github.com/akhilub/DSA-Coding-Patterns",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/60491139?u=144c4802a1842337c5018452ed9bdfce84523d25&v=4",
           "login": "akhilub",
@@ -123,7 +215,7 @@
       }
     }
   ],
-  "merged": 4,
-  "open": 1,
-  "totalCount": 5
+  "merged": 6,
+  "open": 3,
+  "totalCount": 9
 }
