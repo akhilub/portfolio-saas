@@ -1,6 +1,126 @@
 {
-  "closed": 4,
+  "closed": 6,
   "data": [
+    {
+      "id": "I_kwDOFWU94c71wL9T",
+      "closed": true,
+      "title": "BUG: Stroke Panel Toggle Button and Edit Panel Toggle Button are misaligned and off after v2.21.0 in Tray Mode",
+      "createdAt": "2026-03-23T19:00:38Z",
+      "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2718",
+      "number": 2718,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "obsidian-excalidraw-plugin",
+        "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+        "owner": {
+          "login": "zsviczian",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14358394?u=8b35a915119ac21a5753d57c3b79bc1981ff39a5&v=4",
+          "url": "https://github.com/zsviczian"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODcka_M7vqOqM",
+      "closed": false,
+      "title": "Lasso Selection & Selection Bug in Compact Mode",
+      "createdAt": "2026-03-04T08:48:11Z",
+      "url": "https://github.com/excalidraw/excalidraw/issues/10882",
+      "number": 10882,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "excalidraw",
+        "url": "https://github.com/excalidraw/excalidraw",
+        "owner": {
+          "login": "excalidraw",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
+          "url": "https://github.com/excalidraw"
+        }
+      }
+    },
+    {
+      "id": "I_kwDONwxJ7s7m8U4F",
+      "closed": false,
+      "title": "doclink.io/ is taking to https://unmarble.com/",
+      "createdAt": "2026-01-30T08:17:22Z",
+      "url": "https://github.com/rahmansahinler1/doclink/issues/25",
+      "number": 25,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "doclink",
+        "url": "https://github.com/rahmansahinler1/doclink",
+        "owner": {
+          "login": "rahmansahinler1",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/102040290?u=07e1f0aaec831fb0053b181b0bc671081c46e705&v=4",
+          "url": "https://github.com/rahmansahinler1"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODcka_M7lGb6I",
+      "closed": false,
+      "title": "New UI for excalidraw is missing on excalidraw.com for Desktop/Laptop Screens at zoom level 125%. Did it got revert?",
+      "createdAt": "2026-01-22T16:18:48Z",
+      "url": "https://github.com/excalidraw/excalidraw/issues/10685",
+      "number": 10685,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "excalidraw",
+        "url": "https://github.com/excalidraw/excalidraw",
+        "owner": {
+          "login": "excalidraw",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
+          "url": "https://github.com/excalidraw"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOOyT_3s7e9a2x",
+      "closed": true,
+      "title": "Add a hotkey(shortcut key) for Analyze screen button to trigger from keyboard",
+      "createdAt": "2025-12-17T21:54:16Z",
+      "url": "https://github.com/sohzm/cheating-daddy/issues/181",
+      "number": 181,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cheating-daddy",
+        "url": "https://github.com/sohzm/cheating-daddy",
+        "owner": {
+          "login": "sohzm",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/68921363?u=ca0988c346c5094a3ab695c9c42f0d284e4a3275&v=4",
+          "url": "https://github.com/sohzm"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODcka_M7TL5xG",
+      "closed": false,
+      "title": "Bug",
+      "createdAt": "2025-10-23T04:38:49Z",
+      "url": "https://github.com/excalidraw/excalidraw/issues/10233",
+      "number": 10233,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "excalidraw",
+        "url": "https://github.com/excalidraw/excalidraw",
+        "owner": {
+          "login": "excalidraw",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
+          "url": "https://github.com/excalidraw"
+        }
+      }
+    },
     {
       "id": "I_kwDOMmhZhc66SrUD",
       "closed": true,
@@ -76,7 +196,7 @@
         "url": "https://github.com/saddamarbaa/netflix-clone-app-react-typescript",
         "owner": {
           "login": "saddamarbaa",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/51326421?u=4928f0145ea52f5b0bcf54a354fe1ad314ad1672&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51326421?u=5e7207bda193088802d5a235692a98e9bed9f82c&v=4",
           "url": "https://github.com/saddamarbaa"
         }
       }
@@ -96,7 +216,7 @@
         "url": "https://github.com/saddamarbaa/netflix-clone-api",
         "owner": {
           "login": "saddamarbaa",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/51326421?u=4928f0145ea52f5b0bcf54a354fe1ad314ad1672&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51326421?u=5e7207bda193088802d5a235692a98e9bed9f82c&v=4",
           "url": "https://github.com/saddamarbaa"
         }
       }
@@ -156,7 +276,7 @@
         "url": "https://github.com/favrora/Avatar-Maker",
         "owner": {
           "login": "favrora",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/56507678?u=d70c944dee821bdf505621a21f978d20ab804468&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56507678?u=a0e3ea64b27b43c07198f3dd7b6938c45193db3b&v=4",
           "url": "https://github.com/favrora"
         }
       }
@@ -222,6 +342,6 @@
       }
     }
   ],
-  "open": 7,
-  "totalCount": 11
+  "open": 11,
+  "totalCount": 17
 }

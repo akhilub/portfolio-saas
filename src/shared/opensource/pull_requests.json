@@ -35,7 +35,7 @@
       "createdAt": "2025-02-10T16:03:21Z",
       "number": 2255,
       "changedFiles": 2,
-      "additions": 52,
+      "additions": 43,
       "deletions": 0,
       "baseRepository": {
         "name": "obsidian-excalidraw-plugin",
@@ -158,7 +158,7 @@
         "name": "Avatar-Maker",
         "url": "https://github.com/favrora/Avatar-Maker",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/56507678?u=d70c944dee821bdf505621a21f978d20ab804468&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56507678?u=a0e3ea64b27b43c07198f3dd7b6938c45193db3b&v=4",
           "login": "favrora",
           "url": "https://github.com/favrora"
         }

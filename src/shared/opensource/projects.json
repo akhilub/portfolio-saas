@@ -10,6 +10,20 @@
       "languages": []
     },
     {
+      "id": "R_kgDOPpvvew",
+      "name": "voice-enabled-ai-assistant",
+      "createdAt": "2025-09-04T11:44:13Z",
+      "url": "https://github.com/akhilub/voice-enabled-ai-assistant",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOL2cypg",
       "name": "CropCareAI",
       "createdAt": "2024-05-03T00:58:41Z",
@@ -98,20 +112,6 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOL-LA1A",
-      "name": "Synchrony-SpringBoot",
-      "createdAt": "2024-05-20T16:19:43Z",
-      "url": "https://github.com/akhilub/Synchrony-SpringBoot",
-      "description": "A secure and scalable Spring Boot application for managing users and their images",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Java",
-          "iconifyClass": "logos-java"
         }
       ]
     }
